@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/jmcconde/clipboard-landing-page-master]
+- Live Site URL: [https://spontaneous-sunflower-9f7f5c.netlify.app/]
 
 ## My process
 
@@ -46,7 +46,10 @@ Users should be able to:
 
 ### What I learned
 
-
+Improved my skills on how to build a company landing page.
+Used a mobile first approach.
+Improved my skills on using both Flexbox and Grid layout.
+Practiced how to position a image using position absolute.
 
 ## Author
 
